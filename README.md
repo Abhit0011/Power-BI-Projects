@@ -11,7 +11,6 @@ Welcome to the HR Data Analytics Dashboard repository! This project features a P
 - **Performance Evaluation:** Assess employee performance based on predefined metrics.
 - **Leave Management:** Manage and analyze employee leave records to ensure smooth operations.
 
-## Getting Started
 
 ### Prerequisites
 
@@ -20,19 +19,6 @@ Before you can view or modify the dashboard, you need the following software ins
 - Microsoft Power BI Desktop
 - Microsoft Excel (for data management and manipulation)
 
-### Installation
-
-1. **Clone the repository:**
-    ```sh
-    git clone https://github.com/your-username/hr-data-analytics-dashboard.git
-    cd hr-data-analytics-dashboard
-    ```
-
-2. **Open the Power BI file:**
-    - Open `HR_Dashboard.pbix` in Power BI Desktop.
-
-3. **Load the data:**
-    - Ensure the Excel data source file `EmployeeData.xlsx` is in the same directory as the Power BI file or update the data source settings in Power BI to point to the correct location of your data file.
 
 ## Usage
 
